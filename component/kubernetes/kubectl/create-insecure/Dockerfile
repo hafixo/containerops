@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.14
 MAINTAINER wang qilin <qilin.wang@huawei.com>
 
 ENV KUBECTL_VERSION v1.7.4
